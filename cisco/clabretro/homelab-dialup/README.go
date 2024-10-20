@@ -11,4 +11,4 @@ The 2911 is essentially an ATA, calling one or the other of the two configured F
 
 You will very likely need to adjust IP addresses for your own network.
 
-[2600-and-9111-dialup](./homelab-dialup.jpg)
+[2600-and-9111-dialup](https://raw.githubusercontent.com/clabland/homelab-network-configs/refs/heads/main/cisco/clabretro/homelab-dialup/homelab-dialup.jpg)
